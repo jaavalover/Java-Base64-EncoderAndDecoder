@@ -33,7 +33,7 @@ public class Main {
                     quit();
                     break;
                 default:
-                    System.out.print("\u001B[31m"); // ANSI PURPLE
+                    System.out.print("\u001B[31m"); // ANSI RED
                     System.out.println("Invalid Option");
                     System.out.print("\u001B[0m"); // ANSI RESET
                     start();
