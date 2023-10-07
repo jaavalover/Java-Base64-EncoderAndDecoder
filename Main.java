@@ -11,7 +11,7 @@ public class Main {
     static void start(){
         System.out.println();
         System.out.print("\u001B[35m"); // ANSI PURPLE
-        System.out.print("Base64 Encoder & Decodier");
+        System.out.print("Base64 Encoder & Decoder");
         System.out.print("\u001B[0m"); // ANSI RESET
         System.out.println(" by lars.dev ");
         System.out.println("Please select an option:");
