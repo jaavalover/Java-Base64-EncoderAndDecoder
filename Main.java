@@ -68,7 +68,7 @@ public class Main {
 
         byte[] decodedBytes = Base64.getDecoder().decode(encodedText);
         String decodedText = new String(decodedBytes);
-        System.out.println("Base64 decoded:" + decodedText);
+        System.out.println("Base64 decoded: " + decodedText);
         start();
     }
 
